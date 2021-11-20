@@ -1,12 +1,12 @@
 # React Native and Expo-cli with Docker 
 
 
-## Setiing .env
+## Settings .env
 
 Put your ip to `.env`.
 
 ```
-REACT_NATIVE_PACKAGER_HOSTNAME=192.168.11.5
+REACT_NATIVE_PACKAGER_HOSTNAME=192.168.11.5 {YOU IP || .env}
 ```
 
 ## Docker run
